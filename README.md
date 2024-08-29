@@ -1,4 +1,4 @@
-# <h1 align="center">_Analisis del Mercado Financiero 2019-2021_</h1>
+# <h1 align="center">_Analisis del Mercado Financiero 2019-2024_</h1>
 
 <p align="center">
   <img src="images/portada.jpg"  height="400">
@@ -80,7 +80,7 @@ Dashboard: link
 
 |                         | Nombre   |   Rol                    | GitHub & LinkedIn                                                                                                                                                                                          |
 | ----------------------------- | -------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img width="60" height="60" src="Foto Tomás" alt="Tomás" /> | Tomás Berni | Data Scientics  | [![Github](https://skillicons.dev/icons?i=github)](https://github.com/Angeljs094) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tomasberni/)                         |
+| <img width="60" height="60" src="Foto Tomás" alt="Tomás" /> | Tomás Berni | Data Scientics  | [![Github](https://skillicons.dev/icons?i=github)](https://github.com/tomasberni) [![Linkedin](https://skillicons.dev/icons?i=linkedin)]([https://www.linkedin.com/in/tomasberni/](https://www.linkedin.com/in/tomasberni/))                         |
 |                               |
 | <img width="60" height="60" src="fotoNathaly.jpg" alt="Nathaly" /> | Nathaly Castro | Data Analytics | [![Github](https://skillicons.dev/icons?i=github)](https://github.com/ylathan) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nathaly-castro-g%C3%B3mez-49229723b/)                         |
 |                               |
