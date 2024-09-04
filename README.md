@@ -1,7 +1,7 @@
 # <h1 align="center">_Analisis del Mercado Financiero 2019-2024_</h1>
 
 <p align="center">
-  <img src="imagenes/portada.jpg"  height="400">
+  <img src="imagenes/portada.png"  height="400">
 <p align="center">
 
 ## Índice
