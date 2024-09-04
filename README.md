@@ -25,31 +25,22 @@ Este proyecto tiene como objetivo realizar un analisis tecnico del mercado de va
 - Análisis de tendencias.
 
 
-## Requisitos
+## Tecnologias
 
 - Python 3.x
-- pandas
-- matplotlib
-- seaborn
-- numpy
-- jupyter 
-
-## Instalación
-
-1. Clona este repositorio:
-   git clone https://github.com/No-Country-simulation/c20-66-m-data-bi
-2. Crear un entorno virtual: python -m venv env
-3. Activar el entorno virtual: .\env\Scripts\activate
-3. Instalar dependencias:    pip install -r requirements.txt
-
-
+- Pandas
+- Matplotlib
+- Pyplot
+- Numpy
+- Jupyter Notebook
+- Sklearn
 
 ## Estructura del Proyecto
 
-- Viralyze/
+- Analisis Mercado Covid/
 - │
-- ├── data/                    # Directorio para los datos procesados.
-- ├── images/                  # Imagenes del readme.
+- ├── datos/                    # Directorio para los datos procesados y sin procesar.
+- ├── imagened/                  # Imagenes del readme.
 - ├── Notebooks/               # Jupyter Notebooks para análisis exploratorio y Machine .Learning
 - ├── .gitignore               # configuracion de archivos ignorados.
 - ├── app.py                   # Archivo de aplicación del deploy en Streamlit.
