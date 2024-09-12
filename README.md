@@ -50,7 +50,7 @@ Este proyecto tiene como objetivo realizar un analisis tecnico del mercado de va
 
 ## Enlaces
 
-Dashboard: link
+[Dashboard Stock Market](https://app.powerbi.com/groups/me/reports/22ed2044-ee0b-4a25-b8b2-8d8d2a94e892/e719377014e91008882b?experience=power-bi)
 
 
 <p align="center">
