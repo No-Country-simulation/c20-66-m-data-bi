@@ -74,7 +74,7 @@ Este proyecto tiene como objetivo realizar un analisis tecnico del mercado de va
 |                               |
 | <img width="60" height="60" src="imagenes/fotoNathaly.jpg" alt="Nathaly" /> | Nathaly Castro | Data Analytics | [![Github](https://skillicons.dev/icons?i=github)](https://github.com/ylathan) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nathaly-castro-g%C3%B3mez-49229723b/)                         |
 |                               |
-| <img width="60" height="60" src="imagenes/Santi.jpeg" alt="Santiago" /> | Santiago Nuñez | Data Engineer | [![Github](https://skillicons.dev/icons?i=github)](https://github.com/SantiNunez2003) [![Linkedin](https://skillicons.dev/icons?i=linkedin)]([https://www.linkedin.com/in/nathaly-castro-g%C3%B3mez-49229723b/](https://www.linkedin.com/in/santiago-nu%C3%B1ez-8169872a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))                         |
+| <img width="60" height="60" src="imagenes/Santi.jpeg" alt="Santiago" /> | Santiago Nuñez | Data Engineer | [![Github](https://skillicons.dev/icons?i=github)](https://github.com/SantiNunez2003) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/santiago-nuñez-8169872a9/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)                         |
 |                               |
 
 ## Tecnologías
