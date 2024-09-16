@@ -39,14 +39,13 @@ Este proyecto tiene como objetivo realizar un analisis tecnico del mercado de va
 
 - Analisis Mercado Covid/
 - │
-- ├── datos/                    # Directorio para los datos procesados y sin procesar.
-- ├── imagened/                  # Imagenes del readme.
-- ├── Notebooks/               # Jupyter Notebooks para análisis exploratorio y Machine .Learning
-- ├── .gitignore               # configuracion de archivos ignorados.
-- ├── app.py                   # Archivo de aplicación del deploy en Streamlit.
-- ├── README.md                # Este archivo README.
-- ├── requirements.txt         # Archivo de requisitos.
-- └── ...
+- ├── datos/                         # Directorio para los datos procesados y sin procesar.
+- ├── imagenes/                      # Imagenes del readme.
+- ├── Notebooks/                     # Jupyter Notebooks para análisis exploratorio y Machine Learning.
+- ├── graficos/                      # Graficos en png.
+- ├── README.md                      # Este archivo README.
+- ├── Presentacion.pbix              # Presentación del proyecto.
+- └── ...  
 
 ## Enlaces
 
