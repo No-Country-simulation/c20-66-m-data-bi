@@ -8,13 +8,11 @@
 
 1. [Descripción](#descripción)
 2. [Características](#características)
-3. [Requisitos](#requisitos)
-4. [Instalación](#instalación)
-5. [Estructura del Proyecto](#estructura-del-proyecto)
-6. [Enlaces](#enlaces)
-7. [Reportes - Power BI](#reportes---power-bi)
-8. [Colaboradores](#colaboradores)
-9. [Tecnologías](#tecnologías)
+3. [Estructura del Proyecto](#estructura-del-proyecto)
+4. [Enlaces](#enlaces)
+5. [Vista Previa - Power BI](#vista-previa---power-bi)
+6. [Colaboradores](#colaboradores)
+7. [Tecnologías](#tecnologías)
 
 ## Descripción
 
@@ -49,7 +47,9 @@ Este proyecto tiene como objetivo realizar un analisis tecnico del mercado de va
 
 ## Enlaces
 
-[Dashboard Stock Market](https://app.powerbi.com/groups/me/reports/22ed2044-ee0b-4a25-b8b2-8d8d2a94e892/e719377014e91008882b?experience=power-bi)
+1-[Dashboard Interactivo](https://app.powerbi.com/groups/me/reports/22ed2044-ee0b-4a25-b8b2-8d8d2a94e892/e719377014e91008882b?experience=power-bi)
+
+2-[Archivo Power BI](https://www.transfernow.net/dl/c20-66-m-data-bi)
 
 
 <p align="center">
@@ -58,12 +58,11 @@ Este proyecto tiene como objetivo realizar un analisis tecnico del mercado de va
 
 
 
-## Reportes - Power BI
+## Vista Previa - Power BI
 
 <p align="center">
-  <img src="images/reporte1.jpg"  height="400">
-  <img src="images/reporte2.jpg"  height="400">
-  <img src="images/reporte3.jpg"  height="400">
+  <img src="imagenes/Presentacion-captura-1.png"  height="400">
+  <img src="imagenes/Presentacion-captura-2.png"  height="360">
 <p align="center">
 
 ## Colaboradores
