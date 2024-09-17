@@ -16,7 +16,7 @@
 
 ## Descripción
 
-Este proyecto tiene como objetivo realizar un analisis tecnico del mercado de valores para proporcionar insights sobre el comportamiento de este en las etapas pre-pandemia, pandemia, y pos-pandemia,conocer el impacto en diferentes comodites e industrias que cotizan en las principales bolsas de valores. Utiliza técnicas de análisis de datos y visualización para interpretar y comunicar los resultados.
+Este proyecto tiene como objetivo realizar un analisis tecnico del mercado de valores para proporcionar insights sobre el comportamiento de este en las etapas pre-pandemia, pandemia, y pos-pandemia para conocer el impacto en diferentes comodites e industrias que cotizan en las principales bolsas de valores. Utilizando técnicas de análisis de datos y visualización para interpretar y comunicar los resultados.
 
 ## Características
 
