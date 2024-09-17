@@ -7,7 +7,7 @@
 ## Índice
 
 1. [Descripción](#descripción)
-2. [Características](#características)
+2. [Características del proyecto](#características-del-proyecto)
 3. [Estructura del Proyecto](#estructura-del-proyecto)
 4. [Enlaces](#enlaces)
 5. [Vista Previa - Power BI](#vista-previa---power-bi)
@@ -18,9 +18,18 @@
 
 Este proyecto tiene como objetivo realizar un analisis tecnico del mercado de valores para proporcionar insights sobre el comportamiento de este en las etapas pre-pandemia, pandemia, y pos-pandemia para conocer el impacto en diferentes comodites e industrias que cotizan en las principales bolsas de valores. Utilizando técnicas de análisis de datos y visualización para interpretar y comunicar los resultados.
 
-## Características
+## Características del Proyecto
 
-- Análisis de tendencias.
+1. **Análisis Técnico del Mercado de Valores**  
+2. **Impacto de la Pandemia en Industrias y Commodities**  
+3. **Estudio de las Etapas Pre-pandemia, Pandemia y Pos-pandemia**  
+4. **Análisis de Mercados Financieros en las Principales Bolsas de Valores**  
+5. **Técnicas de Análisis de Datos**  
+6. **Interpretación y Comunicación de Resultados**  
+7. **Visualización de Datos para Insights**  
+8. **Evaluación de Comportamiento de Activos Financieros**  
+9. **Comparación de Impacto en Diferentes Industrias**  
+10. **Uso de Herramientas de Ciencia de Datos**
 
 
 ## Tecnologias
