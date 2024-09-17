@@ -34,17 +34,17 @@ Este proyecto tiene como objetivo realizar un analisis tecnico del mercado de va
 
 ## Tecnologias
 
-- Python 3.x
-- Pandas
-- Matplotlib
-- Pyplot
-- Numpy
-- Jupyter Notebook
-- Sklearn
+- **Python 3.x**
+- **Pandas**
+- **Matplotlib**
+- **Pyplot**
+- **Numpy**
+- **Jupyter Notebook**
+- **SKlearn**
 
 ## Estructura del Proyecto
 
-- Analisis Mercado Covid/
+- c20-66-m-data-bi/
 - │
 - ├── datos/                         # Directorio para los datos procesados y sin procesar.
 - ├── imagenes/                      # Imagenes del readme.
