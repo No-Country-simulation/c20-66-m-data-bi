@@ -56,11 +56,11 @@ Este proyecto tiene como objetivo realizar un analisis tecnico del mercado de va
 
 ## Enlaces
 
-1-[Dashboard Interactivo](https://app.powerbi.com/groups/me/reports/22ed2044-ee0b-4a25-b8b2-8d8d2a94e892/e719377014e91008882b?experience=power-bi)
+1-[Presentación del Proyecto](https://www.canva.com/design/DAGPnk-R1dQ/X2Pm82CXx1zy51MjwVArpQ/view?utm_content=DAGPnk-R1dQ&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
-2-[Archivo Power BI](https://www.transfernow.net/dl/c20-66-m-data-bi)
+2-[Dashboard Interactivo](https://app.powerbi.com/groups/me/reports/22ed2044-ee0b-4a25-b8b2-8d8d2a94e892/e719377014e91008882b?experience=power-bi)
 
-3-[Presentación de Canva](https://www.canva.com/design/DAGPnk-R1dQ/X2Pm82CXx1zy51MjwVArpQ/view?utm_content=DAGPnk-R1dQ&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+3-[Archivo Power BI](https://www.transfernow.net/dl/c20-66-m-data-bi)
 
 
 
