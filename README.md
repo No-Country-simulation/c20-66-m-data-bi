@@ -61,11 +61,6 @@ Este proyecto tiene como objetivo realizar un analisis tecnico del mercado de va
 2-[Archivo Power BI](https://www.transfernow.net/dl/c20-66-m-data-bi)
 
 
-<p align="center">
-  <img src="images/streamlit.gif"  height="200">
-<p align="center">
-
-
 
 ## Vista Previa - Power BI
 
