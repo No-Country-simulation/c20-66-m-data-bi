@@ -40,7 +40,7 @@ Este proyecto tiene como objetivo realizar un analisis tecnico del mercado de va
 - **Pyplot**
 - **Numpy**
 - **Jupyter Notebook**
-- **SKlearn**
+- **Sklearn**
 
 ## Estructura del Proyecto
 
